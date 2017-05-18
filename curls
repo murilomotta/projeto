@@ -1,0 +1,5 @@
+curl -X POST sua_url_aqui/cliente -d '{"nome":"murilo"}'
+
+curl -X GET sua_url_aqui/lista/clientes
+
+curl -X GET sua_url_aqui/busca/cliente/2
