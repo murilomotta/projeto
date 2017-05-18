@@ -1,0 +1,20 @@
+
+Para Pegar o Projeto:
+  
+  git init
+  git clone https://github.com/murilomotta/projeto_p2.git
+  cd projeto_p2
+  git remote
+
+
+Para alteração:
+  
+  git add NOME.DO.ARQUIVO.ALTERADO
+  git commit -m "DESCRIÇÃO DO COMMIT"
+  git pull
+  git push
+
+
+Pegar versão atualizada:
+  
+  git pull
